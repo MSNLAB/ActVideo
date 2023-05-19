@@ -1,4 +1,4 @@
-# Active Continuous Video Analytics
+#  ActVideo: Active Continuous Learning for Video Analytics
 
 This project explores building an efficient edge video analytics platform
 by *Active Continuous Learning* to reduce **human labeling** and **edge
