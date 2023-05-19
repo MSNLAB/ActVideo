@@ -84,6 +84,13 @@ Contact:
   pages={1136--1140},
   year={2022}
 }
+
+@article{huang2022active,
+  title={Active-Learning-as-a-Service: An Efficient MLOps System for Data-Centric AI},
+  author={Huang, Yizheng and Zhang, Huaizheng and Li, Yuanming and Lau, Chiew Tong and You, Yang},
+  journal={arXiv preprint arXiv:2207.09109},
+  year={2022}
+}
 ```
 
 ## License
