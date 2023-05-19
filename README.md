@@ -74,5 +74,17 @@ Contact:
 [Lei Zhang](mailto:lei.zhang@njust.edu.cn),
 [Huaizheng Zhang](mailto:huaizhen001@e.ntu.edu.sg)
 
+## Cite us
+
+```markdown
+@inproceedings{zhang2022towards,
+  title={Towards Data-Efficient Continuous Learning for Edge Video Analytics via Smart Caching},
+  author={Zhang, Lei and Gao, Guanyu and Zhang, Huaizheng},
+  booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
+  pages={1136--1140},
+  year={2022}
+}
+```
+
 ## License
 The project is available as open source under the terms of the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
